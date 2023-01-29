@@ -5,12 +5,12 @@
   font-family: "Roboto", "san-Serif";
 }
 
-center {
+.center {
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-cursor {
+.cursor {
   cursor: pointer;
 }
